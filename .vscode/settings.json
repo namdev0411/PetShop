@@ -1,0 +1,8 @@
+{
+    "emmet.includeLanguages": {
+        "php": "html",
+        "blade.php": "html"
+    },
+    "html.format.templating": true,
+    "php.validate.executablePath": ""
+}
